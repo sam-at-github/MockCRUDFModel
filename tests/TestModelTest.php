@@ -1,6 +1,6 @@
 <?php
-use TestModels\TestModel;
-use TestModels\TestModels;
+use MockCRUDFModels\TestModel;
+use MockCRUDFModels\TestModels;
 
 class TestModelTest extends PHPUnit_Framework_TestCase
 {

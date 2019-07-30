@@ -1,10 +1,10 @@
 {
-  "name": "sam-at-github/testmodels",
+  "name": "sam-at-github/mockcrudfmodels",
   "minimum-stability": "dev",
   "prefer-source": true,
   "autoload": {
     "psr-4": {
-      "TestModels\\": "."
+      "MockCRUDFModels\\": "."
     }
   }
 }

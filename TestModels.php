@@ -1,6 +1,6 @@
 <?php
-namespace TestModels;
-use TestModels\TestModel;
+namespace MockCRUDFModels;
+use MockCRUDFModels\TestModel;
 
 /**
  * Provides a hash of test models idemotently creating new ones on request.

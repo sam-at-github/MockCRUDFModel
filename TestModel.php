@@ -1,5 +1,5 @@
 <?php
-namespace TestModels;
+namespace MockCRUDFModels;
 
 /**
  * Simple CRUDF (create, read, update, delete, find) model for testing.
