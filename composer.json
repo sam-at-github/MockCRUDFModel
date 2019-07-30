@@ -1,0 +1,10 @@
+{
+  "name": "sam-at-github/testmodels",
+  "minimum-stability": "dev",
+  "prefer-source": true,
+  "autoload": {
+    "psr-4": {
+      "TestModels\\": "."
+    }
+  }
+}
